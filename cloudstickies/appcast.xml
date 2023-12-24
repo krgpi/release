@@ -3,6 +3,21 @@
     <channel>
         <title>Cloud Stickies</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Sun, 24 Dec 2023 12:51:02 +0900</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://krgpi.github.io/releases/cloudstickies/CloudStickies-1.0.6.zip" length="1677538" type="application/octet-stream" sparkle:edSignature="pEh3d1xv/thvI4DDcA7wxDYRGVRNOtA4BfsuLyeuHu/9sCjMEhIMPTdyTQfX1R+M/VY8tI7TEK3crRQOW8orCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies8-7.delta" sparkle:deltaFrom="7" length="68306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yG/pHAFohQJDax4EksWUZXoaeKLKr2IRt70QB51iSdv7ep2nuFIyKhaCp9qdz5nvviIn0mUmS+4rPxWvQuCoAw=="/>
+                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies8-5.delta" sparkle:deltaFrom="5" length="69902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="e1GEOqucoWNhRuOLWBGQ6BUY1JY2vrbtqtED+ZwGTMcMkjx0LaN24XhbCx/2hvBV/ggoLEOCT41+ctQjv7USDg=="/>
+                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies8-4.delta" sparkle:deltaFrom="4" length="196650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ys5VkGDC804Meym79VmHpWRmXzWEd7oQk7o8t4pPS91YoQs6suv/vMuDMgBpzdQEz7WTKZfFgz7vdrZ3umpUDg=="/>
+                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies8-3.delta" sparkle:deltaFrom="3" length="218970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nKAlkwuv+4AfTFphfAzuSP2v/wKVsUO55wxSHs8BXgYGMbYarx6d9cAUkTLMLlZInXzU/uh975sI8BaBQLm5CA=="/>
+                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies8-2.delta" sparkle:deltaFrom="2" length="481602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pSgoZ1s/ypmsLWVMCkfEUKFE2N3RCo1sprGeubggXPZ3eZZbPzPHlGr2jHsT/RMbc/bJtYil2LkYmwhB4TuaBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Mon, 11 Dec 2023 09:52:30 +0900</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -29,19 +44,6 @@
                 <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies5-3.delta" sparkle:deltaFrom="3" length="209654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="BsKC5jb4BRWsMqv1K3Alkp/PgJOAwrWOPu04ACU8TM8Xut+PkNPse28UnFmXRS04RhdTZZvtudoiKxZq7IujAw=="/>
                 <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies5-2.delta" sparkle:deltaFrom="2" length="480854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XoRI7RyIaNS9l3oDbAV7n0iDyZkesbYbCTtUUqQU2Z1l97tSsglXwconFPp9wPyq8WjJicQwsl9NPFwtf2+hBA=="/>
                 <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies5-1.delta" sparkle:deltaFrom="1" length="481146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="G9ICT2YDgkNh+KvmCZD2x1N8U9n0dcDBploTzfUUSm3sRtTRQsqYGLUmaIY+p5r4d+IvFRSrycVCI6Z1JUPBAg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Sat, 09 Dec 2023 21:08:12 +0900</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://krgpi.github.io/releases/cloudstickies/CloudStickiesInstaller-1.0.3.dmg" length="7706008" type="application/octet-stream" sparkle:edSignature="64QUoUOqO1MI0tNegXRo3+KThCnRGtceCq/l38FewG5TPU1CrJhAOWQhQ1j5jV9TV73GQaE7kGse28ihVjD6Bg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies4-3.delta" sparkle:deltaFrom="3" length="88298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="l1DqxiWXtja34xjF49orvlzSEZfySyKPb7XtgCWTUdhopXSA6cztd6eb0L3Ui1DAnshu5rDiYO7k2JNTRoIbAg=="/>
-                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies4-2.delta" sparkle:deltaFrom="2" length="360062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3FUoFJmGJW4nCbqKMyPAyiv0onw0d0EqOU6Eo+i85K5jrG5saSrv9fjbeJ1c0yhiMXzUb38DCG2M3+x5KLBbCQ=="/>
-                <enclosure url="https://krgpi.github.io/releases/cloudstickies/Cloud%20Stickies4-1.delta" sparkle:deltaFrom="1" length="362446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rBr2ST8tdtv4Vhd1E5doMrL3Q8vCfyF2D3RRtlwlwIe4Ib83NqqPi7WVslBpmsD+xzw9YYacJtwDNZr+EOARBA=="/>
             </sparkle:deltas>
         </item>
     </channel>
